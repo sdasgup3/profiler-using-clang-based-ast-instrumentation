@@ -51,6 +51,14 @@ frequency_of_primes   1106886635.000000            0.000000
 ______________________________________________________________
 ```
 
+### Run Tests
+
+```
+cd unitTests  
+make
+make clean
+```
+
 ### Current Limitations (Could be avoided)
   - Not thread safe.
   - Works on  C++ code.
